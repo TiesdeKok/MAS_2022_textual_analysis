@@ -1,0 +1,19 @@
+name: nlp_demo
+
+dependencies:
+  - python=3.9
+  - pip
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - requests
+  - xlrd
+  - openpyxl
+  - textblob
+  - seaborn
+  - pip:
+    - tqdm
+    - scikit-learn
+    - pyldavis
+    - unidecode
